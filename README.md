@@ -1,2 +1,2 @@
 # Parallel-Template-Matcher
- Parallel-Template-Matcher searches subimages inside an image using cuda
+ Parallel-Template-Matcher searches subimages inside an image using CUDA
